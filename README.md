@@ -7,10 +7,10 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 
 🟠 Within the ***DevOps*** domain, my main objective is to broaden my skills across the tech stack. Currently, I am focusing on gaining proficiency in **Linux** administration, **Bash** scripting, and **AWS** as a cloud service provider. I am also delving into **Docker** and **Kubernetes** for containerization and orchestration. Furthermore, I am familiarizing myself with **Terraform** for Infrastructure as Code (IaC) and **Jenkins** for Continuous Integration and Continuous Deployment (CI/CD).
 
-<h3 align="left">You can contact me</h3>
+<h3 align="left">📫 You can contact me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/>📫 at linkedin: igirb</a>
+<a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/> at linkedin: igirb</a>
 </p>
 
 <h2 align="center">Languages and Tools I am familiar with: </h2>
@@ -49,5 +49,4 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 <h3 align="center"> OOP languages:</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
