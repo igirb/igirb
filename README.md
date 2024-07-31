@@ -13,10 +13,10 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 <a href="https://github.com/igirb/portfolio" target="blank"> Brig | Portfolio 🚀</a>
 </p>
 
-<h3 align="left">📫 You can contact me:</h3>
+<h3 align="left">📫 You can contact me at LinkedIn:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/> at linkedin: igirb</a>
+<a href="https://linkedin.com/in/igirb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/igirb/" height="20" width="15"/> Brigi Jász </a>
 </p>
 
 <h2 align="center">Languages and Tools I am familiar with: </h2>
