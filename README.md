@@ -7,6 +7,12 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 
 🟠 Within the ***DevOps*** domain, my main objective is to broaden my skills across the tech stack. Currently, I am focusing on gaining proficiency in **Linux** administration, **Bash** scripting, and **AWS** as a cloud service provider. I am also delving into **Docker** and **Kubernetes** for containerization and orchestration. Furthermore, I am familiarizing myself with **Terraform** for Infrastructure as Code (IaC) and **Jenkins** for Continuous Integration and Continuous Deployment (CI/CD).
 
+<h3 align="left">🌟 Checkout my portfolio to know me better:</h3>
+
+<p align="left">
+<a href="https://github.com/igirb/portfolio" target="blank"> Brig | Portfolio 🚀</a>
+</p>
+
 <h3 align="left">📫 You can contact me:</h3>
 
 <p align="left">
