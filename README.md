@@ -1,11 +1,13 @@
 <h1 align="center">👋Hi! I'm Brigi Jász. Welcome and step into my universe!🚀</h1>
-<h2 align="center">DevOps Engineer | Full-Stack Developer | Future Cybersecurity Engineer 📍 based in Budapest, Hungary</h2>
+<h2 align="center">Crafting Code, Optimizing Systems, Securing the Future | Full-Stack Magician | DevOps Explorer | Ambitious Cybersecurity BSc Student 📍 based in Budapest, Hungary</h2>
 
 👩‍💻 **Short introduction:**
 
-As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **background in UI/UX Design**, I specialize in operating between code and deployment while also bridging the gap between development and operations.
+🚀 A **full-stack developer, DevOps architect, cybersecurity advocate, and UI/UX designer** with a deep-rooted passion for technology. For me, **tech is more than just a career — it’s a way of life, an evolving craft that I’m constantly honing.** Whether I’m building scalable systems, securing data, or crafting intuitive user experiences, **I approach every challenge with a mindset of curiosity and innovation.** 🌱
 
-🟠 Within the ***DevOps*** domain, my main objective is to broaden my skills across the tech stack. Currently, I am focusing on gaining proficiency in **Linux** administration, **Bash** scripting, and **AWS** as a cloud service provider. I am also delving into **Docker** and **Kubernetes** for containerization and orchestration. Furthermore, I am familiarizing myself with **Terraform** for Infrastructure as Code (IaC) and **Jenkins** for Continuous Integration and Continuous Deployment (CI/CD).
+🌟 I believe in perpetual growth, both in my career and as an individual. From learning emerging technologies to enhancing design principles and optimizing infrastructure, I’m all about pushing myself to achieve more. **My journey is all about CI/CD: Constant Innovation, Continuous Discovery, and pushing the boundaries of what I can achieve.** 💡
+
+🤝 **Collaboration is key.** I’m driven by working alongside passionate, motivated people to build creative solutions that blend technology with purpose. **Together, we can shape experiences that are not only functional but truly transformative.** 🪐
 
 <h3 align="left">🌟 Checkout my portfolio to know me better:</h3>
 
@@ -28,7 +30,6 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
@@ -53,5 +54,6 @@ As a dedicated **Full-Stack Developer** and **DevOps** enthusiast with a **backg
 
 <h3 align="center"> OOP languages:</h3>
 <p align="center"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
