@@ -1,9 +1,9 @@
 <h1 align="center">👋Hi! I'm Brigi Jász. Welcome and step into my universe!🚀</h1>
 <h2 align="center">Crafting Code, Optimizing Systems, Securing the Future | Full-Stack Magician | DevOps Explorer | Ambitious Cybersecurity BSc Student 📍 based in Budapest, Hungary</h2>
 
-👩‍💻 **Short introduction:**
+<h3 align="left">👩‍💻 Short introduction:</h3>
 
-🚀 A **full-stack developer, DevOps architect, cybersecurity advocate, and UI/UX designer** with a deep-rooted passion for technology. For me, **tech is more than just a career — it’s a way of life, an evolving craft that I’m constantly honing.** Whether I’m building scalable systems, securing data, or crafting intuitive user experiences, **I approach every challenge with a mindset of curiosity and innovation.** 🌱
+🚀 A **full-stack developer, DevOps architect, cybersecurity advocate, and UI/UX designer** with a deep-rooted passion for technology. For me, **tech is more than just a career — it’s a way of life, an evolving craft that I’m constantly honing.** Whether I’ building scalable systems, securing data, or crafting intuitive user experiences, **I approach every challenge with a mindset of curiosity and innovation.** 🌱
 
 🌟 I believe in perpetual growth, both in my career and as an individual. From learning emerging technologies to enhancing design principles and optimizing infrastructure, I’m all about pushing myself to achieve more. **My journey is all about CI/CD: Constant Innovation, Continuous Discovery, and pushing the boundaries of what I can achieve.** 💡
 
